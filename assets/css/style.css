@@ -1,4 +1,8 @@
 
+.videos {
+  margin: 10px;
+}
+
 
 /*--------------------------------------------------------------
 # General
@@ -749,7 +753,6 @@ section {
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
-  display: none;
 }
 
 .testimonials .testimonial-item {
